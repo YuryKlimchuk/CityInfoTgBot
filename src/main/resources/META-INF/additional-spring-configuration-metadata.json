@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "bot.username",
+    "type": "java.lang.String",
+    "description": "A description for 'bot.username'"
+  },
+  {
+    "name": "bot.path",
+    "type": "java.lang.String",
+    "description": "A description for 'bot.path'"
+  },
+  {
+    "name": "bot.token",
+    "type": "java.lang.String",
+    "description": "A description for 'bot.token'"
+  }
+]}
